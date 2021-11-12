@@ -12,12 +12,11 @@
   src: url("AmaticSC-Regular.ttf") format("truetype");
 }
 
+/* Horsemen Font */
 @font-face {
   font-family: Horsemen;
   src: url("Horsemen.otf") format("truetype");
 }
-
-  @import url('https://db.onlinewebfonts.com/c/185dd361b54fa08e2cfed3f694ccdc4e?family=Horsemen+(Demo+Version)');
 
   @import url('http://fonts.cdnfonts.com/css/black-bruno');
 
