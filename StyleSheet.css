@@ -24,7 +24,6 @@
   src: url("/fonts/Black_Bruno.otf") format("truetype");
 }
 
-  @import url('http://fonts.cdnfonts.com/css/black-bruno');
 
   footer {
     height: auto;
