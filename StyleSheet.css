@@ -9,13 +9,19 @@
 /* Amatic SC Font */
 @font-face {
   font-family: Amatic_SC;
-  src: url("AmaticSC-Regular.ttf") format("truetype");
+  src: url("/fonts/AmaticSC-Regular.ttf") format("truetype");
 }
 
 /* Horsemen Font */
 @font-face {
   font-family: Horsemen;
-  src: url("Horsemen.otf") format("truetype");
+  src: url("/fonts/Horsemen.otf") format("truetype");
+}
+
+/* Horsemen Font */
+@font-face {
+  font-family: Black_Bruno;
+  src: url("/fonts/Black_Bruno.otf") format("truetype");
 }
 
   @import url('http://fonts.cdnfonts.com/css/black-bruno');
