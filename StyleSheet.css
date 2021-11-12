@@ -486,6 +486,7 @@ height: 250px;
     width: 100%;
     height: auto;
     min-height: 100%;
+    object-fit: fill;
     background-size: cover;
   }
   
