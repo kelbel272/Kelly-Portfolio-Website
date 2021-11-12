@@ -12,6 +12,11 @@
   src: url("AmaticSC-Regular.ttf") format("truetype");
 }
 
+@font-face {
+  font-family: Horsemen;
+  src: url("Horsemen.otf") format("truetype");
+}
+
   @import url('https://db.onlinewebfonts.com/c/185dd361b54fa08e2cfed3f694ccdc4e?family=Horsemen+(Demo+Version)');
 
   @import url('http://fonts.cdnfonts.com/css/black-bruno');
@@ -252,7 +257,7 @@
 /* Container for the Merch Caregories & Slideshow */
 .merch-items {
 border-radius: 25px;    /* Rounded Border */
-font-family: 'Horsemen (Demo Version)', regular;
+font-family: 'Horsemen', regular;
 font-size: 20px;  
 position: relative;
 flex: 25%;                 /* 1/4 of the screen  */
